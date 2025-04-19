@@ -1,0 +1,16 @@
+Typ,ID,Namn,Pris,Extra1,Extra2,Extra3,Extra4,LagerAntal
+Bok,B1,Bello Gallico et Civili,449,Julius Caesar,Historia,Inbunden,Latin,5
+Bok,B2,How to Read a Book,149,Mortimer J. Adler,Kurslitteratur,Pocket,,0
+Bok,B3,Moby Dick,49,Herman Melville,Äventyr,Pocket,,8
+Bok,B4,Great Gatsby,79,F. Scott Fitzgerald,Noir,E-Bok,,18
+Bok,B5,House of Leaves,49,Mark Z. Danielewski,Skräck,,,6
+Spel,S1,Elden Ring,599,Playstation 5,,,,4
+Spel,S2,Demon's Souls,499,Playstation 5,,,,11
+Spel,S3,Microsoft Flight Simulator,499,PC,,,,9
+Spel,S4,Planescape Torment,99,PC,,,,0
+Spel,S5,Disco Elysium,399,PC,,,,1
+Film,F1,Nyckeln till frihet,99,DVD,142 min,,, 13
+Film,F2,Gudfadern,99,DVD,152 min,,, 10
+Film,F3,Konungens återkomst,199,Blu-Ray,154 min,,, 2
+Film,F4,Pulp fiction,199,Blu-Ray,,,, 2
+Film,F5,Schindlers list,99,DVD,,,, 9

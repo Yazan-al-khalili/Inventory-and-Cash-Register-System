@@ -1,0 +1,16 @@
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\bin\Debug\net8.0-windows\Laboration4.exe
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\bin\Debug\net8.0-windows\Laboration4.deps.json
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\bin\Debug\net8.0-windows\Laboration4.runtimeconfig.json
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\bin\Debug\net8.0-windows\Laboration4.dll
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\bin\Debug\net8.0-windows\Laboration4.pdb
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\obj\Debug\net8.0-windows\Laboration4.Form1.resources
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\obj\Debug\net8.0-windows\Laboration4.csproj.GenerateResource.cache
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\obj\Debug\net8.0-windows\Laboration4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\obj\Debug\net8.0-windows\Laboration4.AssemblyInfoInputs.cache
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\obj\Debug\net8.0-windows\Laboration4.AssemblyInfo.cs
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\obj\Debug\net8.0-windows\Laboration4.csproj.CoreCompileInputs.cache
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\obj\Debug\net8.0-windows\Laboration4.dll
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\obj\Debug\net8.0-windows\refint\Laboration4.dll
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\obj\Debug\net8.0-windows\Laboration4.pdb
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\obj\Debug\net8.0-windows\Laboration4.genruntimeconfig.cache
+C:\Users\Yazan\OneDrive\Documents\C#.NET\C#_Projects\Laboration4\Laboration4\obj\Debug\net8.0-windows\ref\Laboration4.dll
